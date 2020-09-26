@@ -9,6 +9,7 @@ dependencies:
   - nltk
   - jupyter
   - beautifulsoup4
+  - urllib3
   - pip:
     - black
     - requests
